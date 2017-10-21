@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWIS", "MWIS\MWIS.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWISTest", "MWISTest\MWISTest.csproj", "{A476CAD2-182E-4170-9314-BC815480202C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWISMakerLib", "MWISMakerLib\MWISMakerLib.csproj", "{5F57D959-C6BD-4F74-865C-F6DA793087F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A476CAD2-182E-4170-9314-BC815480202C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A476CAD2-182E-4170-9314-BC815480202C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A476CAD2-182E-4170-9314-BC815480202C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F57D959-C6BD-4F74-865C-F6DA793087F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F57D959-C6BD-4F74-865C-F6DA793087F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F57D959-C6BD-4F74-865C-F6DA793087F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F57D959-C6BD-4F74-865C-F6DA793087F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

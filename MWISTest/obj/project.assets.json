@@ -1600,6 +1600,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "MWISMakerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MWISMakerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MWISMakerLib.dll": {}
+        }
       }
     }
   },
@@ -5610,12 +5620,18 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "MWISMakerLib/1.0.0": {
+      "type": "project",
+      "path": "../MWISMakerLib/MWISMakerLib.csproj",
+      "msbuildProject": "../MWISMakerLib/MWISMakerLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
+      "MWISMakerLib >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -5652,7 +5668,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\C#\\Coursera\\algorithms-course3\\week3-2\\MWISMakerLib\\MWISMakerLib.csproj": {
+              "projectPath": "D:\\Projects\\C#\\Coursera\\algorithms-course3\\week3-2\\MWISMakerLib\\MWISMakerLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

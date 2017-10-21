@@ -1,0 +1,8 @@
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\obj\Debug\netcoreapp2.0\MWISMakerLib.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\obj\Debug\netcoreapp2.0\MWISMakerLib.AssemblyInfoInputs.cache
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\obj\Debug\netcoreapp2.0\MWISMakerLib.AssemblyInfo.cs
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\bin\Debug\netcoreapp2.0\MWISMakerLib.deps.json
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\bin\Debug\netcoreapp2.0\MWISMakerLib.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\bin\Debug\netcoreapp2.0\MWISMakerLib.pdb
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\obj\Debug\netcoreapp2.0\MWISMakerLib.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISMakerLib\obj\Debug\netcoreapp2.0\MWISMakerLib.pdb

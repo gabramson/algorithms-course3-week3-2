@@ -2,3 +2,15 @@ D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\obj\Debug\netcoreapp
 D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\obj\Debug\netcoreapp2.0\MWISTest.csproj.CoreCompileInputs.cache
 D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\obj\Debug\netcoreapp2.0\MWISTest.AssemblyInfoInputs.cache
 D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\obj\Debug\netcoreapp2.0\MWISTest.AssemblyInfo.cs
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISTest.deps.json
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISTest.runtimeconfig.json
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISTest.runtimeconfig.dev.json
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISTest.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISTest.pdb
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISMakerLib.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\bin\Debug\netcoreapp2.0\MWISMakerLib.pdb
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\obj\Debug\netcoreapp2.0\MWISTest.dll
+D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWISTest\obj\Debug\netcoreapp2.0\MWISTest.pdb

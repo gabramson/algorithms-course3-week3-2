@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MWISMakerLib;
 
 namespace MWISTest
 {
@@ -8,11 +9,12 @@ namespace MWISTest
         [TestMethod]
         public void TestMWISMaker()
         {
-            TestMWISMaker mwisMaker = new MSIWMaker();
+            MWISMaker mwisMaker = new MWISMaker();
             mwisMaker.AddVertex(1);
             mwisMaker.AddVertex(4);
             mwisMaker.AddVertex(5);
             mwisMaker.AddVertex(4);
+            mwisMaker.Execute();
             Assert.AreEqual(4, mwisMaker.MWIS[0]);
             Assert.AreEqual(4, mwisMaker.MWIS[1]);
         }
