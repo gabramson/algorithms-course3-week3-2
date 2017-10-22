@@ -7,7 +7,7 @@ namespace MWISMakerLib
     {
         private List<int> vertices = new List<int>();
 
-        public List<int> MWIS { private set; get; }
+        public List<int> MWIS { private set; get; } = new List<int>();
 
         public void AddVertex(int weight)
         {
@@ -16,21 +16,47 @@ namespace MWISMakerLib
 
         public void Execute()
         {
-            var maxWeights = new List<T>;
+            var maxWeights = new List<int>();
+            int i = 0;
 
-            maxWeights[0] = vertices[0];
-            maxWeights[1] = vertices[1];
-            for (int i = 2; i < vertices.Count; i += 1)
+            maxWeights.Add(vertices[0]);
+            maxWeights.Add(vertices[1]);
+            for (i = 2; i < vertices.Count; i += 1)
             {
                 if (maxWeights[i-2] + vertices[i]> maxWeights[i - 1])
                 {
-                    maxWeights[i] = maxWeights[i - 2] + vertices[i];
+                    maxWeights.Add(maxWeights[i - 2] + vertices[i]);
                 }
                 else
                 {
-                    maxWeights[i] = vertices[i - 1];
+                    maxWeights.Add( maxWeights[i - 1]);
                 }
             }
+            i = vertices.Count-1;
+            while (i >= 0)
+            {
+                if (maxWeights[i] != maxWeights[i - 1]){
+                    MWIS.Add(i);
+                    if (i > 2)
+                    {
+                        i -= 2;
+                    }
+                    else if (i == 2)
+                    {
+                        MWIS.Add(0);
+                        break;
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+                else
+                {
+                    i -= 1;
+                }
+            }
+            MWIS.Reverse();
         }
     }
 }

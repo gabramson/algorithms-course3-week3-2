@@ -8,3 +8,16 @@ D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\
 D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.AssemblyInfo.cs
 D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.dll
 D:\Projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWIS.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWIS.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWIS.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWIS.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWIS.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\obj\Debug\netcoreapp2.0\MWIS.pdb
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWISMakerLib.dll
+C:\projects\C#\Coursera\algorithms-course3\week3-2\MWIS\bin\Debug\netcoreapp2.0\MWISMakerLib.pdb

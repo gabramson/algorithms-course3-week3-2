@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "MWIS/1.0.0": {
+        "dependencies": {
+          "MWISMakerLib": "1.0.0"
+        },
         "runtime": {
           "MWIS.dll": {}
+        }
+      },
+      "MWISMakerLib/1.0.0": {
+        "runtime": {
+          "MWISMakerLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MWIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MWISMakerLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
